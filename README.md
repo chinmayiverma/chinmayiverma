@@ -8,8 +8,6 @@ I am a diligent and passionate person with strong organizational skills and inte
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chinmayi.verma@gmail.com](mailto:chinmayi.verma@gmail.com)
-* 🧠  I'm learning AWS Practitioner Cloud, DSA
-* ⚡  I am a devil of my word - Lucifer Morningstar
 
 <a href="https://www.github.com/chinmayiverma" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chinmayiverma?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
